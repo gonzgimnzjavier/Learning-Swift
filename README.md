@@ -41,9 +41,9 @@ Happy coding!
 
 ### Connect with Me
 
-- [GitHub Profile](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [GitHub Profile](https://github.com/gonzgimnzjavier)
+- [Twitter](https://twitter.com/javigongimenez)
+- [LinkedIn](https://www.linkedin.com/in//javier-gonzález-giménez-a72426280/)
 
 ![MacOS](https://www.apple.com/v/macos/c/images/meta/og__cwwduzqys1uq.png)
 
